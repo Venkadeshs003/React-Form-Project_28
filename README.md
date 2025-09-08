@@ -1,0 +1,1 @@
+simple form for render ther user data in in the website without refresh the site just using the usestate
